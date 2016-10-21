@@ -1,5 +1,7 @@
 '''
-File: CN-codedemy-script-8.Loops-14.LoopOverADictionary.py
+Python1-Codecademy/8.Loops.14.LoopOverADictionary.py
+(on PC CN-codedemy-script-8.Loops-14.LoopOverADictionary.py)
+Dictionaries use square brackets
 '''
 d = {'a': 'apple', 'b': 'berry', 'c': 'cherry', 'p': 'pear', 'o': 'orange'}
 for key in d:
