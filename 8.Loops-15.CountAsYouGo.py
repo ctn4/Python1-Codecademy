@@ -7,7 +7,8 @@ Instructions
 We don't want the user to see things listed from index 0, since this looks unnatural. Instead, the items should appear to start at index 1. Modify the print statement to reflect this behavior. See the Hint for help.
 
 Hint
-Instead of just printing index, print index+1!
+Instead of just printing index, print index+1
+
 Python1-Codecademy/8.Loops-15.CountAsYouGo.py
 Filename: CN-codedemy-script-8.Loops-15.CountAsYouGo.py
 Oct 21, 2016: Worked
